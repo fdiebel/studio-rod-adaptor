@@ -1,7 +1,7 @@
 Lightweight to Studio Rod Adaptor
 =============
 
-Allows for mounting lightweight accessories made for 15mm rods w/ 60mm spacing on studio hardware that uses 15m rods at 100mm spacing. Perefct fro light accessories, such as a follow focus.
+Allows for mounting lightweight accessories made for 15mm rods w/ 60mm spacing on studio hardware that uses 15m rods at 100mm spacing. Perfect for light accessories, such as a follow focus.
 
 Designed with [FreeCAD](http://www.freecadweb.org/).
 
