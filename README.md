@@ -16,7 +16,7 @@ I printed with PLA filament on the following settings, and results were okay.
 * Walls: 2.05
 * Fill: 50
 
-There was a *very* slight bit of flex with my follow focus mounted but not enough to affect pulling focus.
+There was a *very* slight bit of flex with my follow focus mounted but not enough to affect pulling focus. I'll probably try printing with different settings/materials and see if that makes any difference.
 
 To finish the project, you will need 2 M4 nuts and 2 ~20mm M4 bolts, preferrably with wing nuts for easy hand-tightening. 
 
